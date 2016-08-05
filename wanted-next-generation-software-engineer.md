@@ -5,7 +5,7 @@ Hi There,
 Our company AutoScout24 GmbH (http://www.autoscout24.com/) is searching for a Senior Engineer with relocation to Munich,
 Germany.
 
-Short summary of our stack: `Scala`, `JS`, `SCSS`, `Play` Framework, `Akka` [Actors, Streams, Http], `Elasticsearch`, 
+Short summary of our stack: `Scala`, `JS` (`VanillaJS` - if you know what I mean ;)), `SCSS`, `Play` Framework, `Akka` [Actors, Streams, Http], `Elasticsearch`, 
 `Kafka`, `Apache Spark`, `AWS`, Agile environment, microservices.
 
 AutoScout24 is Europe's largest online car advertisement portal. Since last couple of years our development teams are
