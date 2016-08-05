@@ -26,7 +26,7 @@ More about our principles you can find out in our GitHub repository (feel free t
 
 https://github.com/AutoScout24/scout24-it-principles
 
-Also here is a video of our architect [Christian Deger](https://github.com/ChristianDeger) who explains about our principles,
+Also here is a video of our architect [Christian Deger](https://twitter.com/cdeger) who explains about our principles,
 culture and why we are doing it: 
 
 https://www.youtube.com/watch?v=xM8CBgqCEBY
@@ -69,15 +69,12 @@ Or you also can directly contact me, [Pavlo](https://github.com/pvoznenko).
 
 My email address is: pvoznenko@autoscout24.com
 
-For any questions do not hesitate to contact me.
+So do not hesitate to ask your quesitons.
 
 Best Regards,
 
 Pavlo Voznenko
 
-
-My Skype: p.voznenko
-
-Twitter: https://twitter.com/pvoznenko
-
-GitHub: https://github.com/pvoznenko
+- My Skype: p.voznenko
+- Twitter: https://twitter.com/pvoznenko
+- GitHub: https://github.com/pvoznenko
