@@ -15,7 +15,7 @@ with a thought of ”Mobile first”. More about our move you can read in our bl
 
 http://inside.autoscout24.com/2015/01/04/autoscout24-changes-technology-aws-linux-jvm/
 
-Nice thing about AutoScout24 is that it is the business who demands changes and use of up-to-date technologies. So we as part of
+Nice thing about AutoScout24 is that it is the business who demands changes and the use of up-to-date technologies. So we as part of
 IT do not need to beg business for giving us time for refactoring or stabilisation, it is fully in our competence
 and business interests to do so. But still we should be focused and keep the business values in mind in all that we are
 doing.
