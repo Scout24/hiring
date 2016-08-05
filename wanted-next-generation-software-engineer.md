@@ -2,36 +2,36 @@
 
 Hi There,
 
-Our company AutoScout24 GmbH (http://www.autoscout24.com/) is searching for a Senior Engineer with relocation to Munich,
+Our company AutoScout24 GmbH (http://www.autoscout24.com/) is searching for Senior Engineer with relocation to Munich,
 Germany.
 
-Short summary of our stack: `Scala`, `JS` (`VanillaJS` - if you know what I mean ;)), `SCSS`, `Play` Framework, `Akka` [Actors, Streams, Http], `Elasticsearch`, 
+Short summary of our stack: `Scala`, `JS` (`VanillaJS` - if you know what I mean ;)), `SCSS`, `Play` Framework, `Akka` [Actors, Streams, Http], `Elasticsearch`,
 `Kafka`, `Apache Spark`, `AWS`, Agile environment, microservices.
 
 AutoScout24 is Europe's largest online car advertisement portal. Since last couple of years our development teams are
-working on slicing legacy monolith `.Net` application to the microservices using `Scala` and moving all infrastructure
-into the cloud powered by Amazon Web Services (`AWS`). We are also working fully on reimplementing our frontend part
+working on slicing legacy monolith `.Net` application to microservices using `Scala` and moving all infrastructure
+into the cloud powered by Amazon Web Services (`AWS`). We are also working on a fully reimplementation of our frontend part
 with a thought of ”Mobile first”. More about our move you can read in our blog:
 
 http://inside.autoscout24.com/2015/01/04/autoscout24-changes-technology-aws-linux-jvm/
 
-Nice about AutoScout24 that it is a business who demands changes and use of up-to-date technologies. So we as part of
-IT do not need to beg business for giving us a time for refactoring or stabilisation, it is fully in our competence
-and business interests to do it. But still we should be focused and keep in mind the business value in all what we are
+Nice thing about AutoScout24 is that it is the business who demands changes and use of up-to-date technologies. So we as part of
+IT do not need to beg business for giving us time for refactoring or stabilisation, it is fully in our competence
+and business interests to do so. But still we should be focused and keep the business values in mind in all that we are
 doing.
 
 In IT we defined solid principles that guide us through our day-to-day business. Principles like “you build it, you run
-it”, “collaboration culture”, “autonomous teams”, “infrastructure as a code” and other, that helps us in our development.
-More about our principles you can find out in our GitHub repository (feel free to open PDF files to have formatted text):
+it”, “collaboration culture”, “autonomous teams”, “infrastructure as a code” and others that helps us in our development.
+You can find more about our principles in our GitHub repository (feel free to open PDF files to have formatted text):
 
 https://github.com/AutoScout24/scout24-it-principles
 
-Also here is a video (YouTube) of our architect [Christian Deger](https://twitter.com/cdeger) who explains about our 
-principles, culture and why we are doing it [picture ↓ is clickable]: 
+Also here is a video (YouTube) of our architect [Christian Deger](https://twitter.com/cdeger) who explains about our
+principles, culture and why we are doing it [picture ↓ is clickable]:
 
 [![Highway to heaven - Building microservices in the cloud](http://img.youtube.com/vi/xM8CBgqCEBY/0.jpg)](http://www.youtube.com/watch?v=xM8CBgqCEBY)
 
-Slides from this presentation (SlideShare)[picture ↓ is clickable]: 
+Slides from this presentation (SlideShare)[picture ↓ is clickable]:
 
 [![Slides: Highway to heaven - Building microservices in the cloud](http://image.slidesharecdn.com/gotonightsberlin2016-160504115537/95/building-microservices-in-the-cloud-goto-nights-berlin-2016-1-638.jpg?cb=1462363122)](http://www.slideshare.net/cdeger/building-microservices-in-the-cloud-goto-nights-berlin-2016)
 
@@ -60,8 +60,8 @@ trainings and is interested in that each employee get smarter and better in what
 company culture. All IT people in AutoScout is passionate about technologies. Almost every week there are 1-3 workshops
 from employees, where someone is explaining or showing what cool stuff he/she did, implemented or discovered.
 
-So if all this sounds interesting for you we would be happy to receive your CV and start necessary hiring process.
-Feel free to contact one of our colleagues [picture ↓ is clickable]:
+So if all of this sounds interesting for you we would be happy to receive your CV. Feel free to contact one of our
+colleagues [picture ↓ is clickable]:
 
 [![Inside the AutoScout24](http://inside.autoscout24.com/img/post_img/tatsu_stack.jpg)](http://inside.autoscout24.com/career/2015/08/06/wanted-next-generation-software-engineer/)
 
@@ -69,7 +69,7 @@ Or you also can directly contact me, [Pavlo](https://github.com/pvoznenko).
 
 My email address is: pvoznenko@autoscout24.com
 
-So do not hesitate to ask your quesitons.
+If you have questions do not hesitate to ask.
 
 Best Regards,
 
