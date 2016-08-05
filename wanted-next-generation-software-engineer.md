@@ -27,11 +27,11 @@ More about our principles you can find out in our GitHub repository (feel free t
 https://github.com/AutoScout24/scout24-it-principles
 
 Also here is a video (YouTube) of our architect [Christian Deger](https://twitter.com/cdeger) who explains about our 
-principles, culture and why we are doing it: 
+principles, culture and why we are doing it [picture ↓ is clickable]: 
 
 [![Highway to heaven - Building microservices in the cloud](http://img.youtube.com/vi/xM8CBgqCEBY/0.jpg)](http://www.youtube.com/watch?v=xM8CBgqCEBY)
 
-Slides from this presentation (SlideShare): 
+Slides from this presentation (SlideShare)[picture ↓ is clickable]: 
 
 [![Slides: Highway to heaven - Building microservices in the cloud](http://image.slidesharecdn.com/gotonightsberlin2016-160504115537/95/building-microservices-in-the-cloud-goto-nights-berlin-2016-1-638.jpg?cb=1462363122)](http://www.slideshare.net/cdeger/building-microservices-in-the-cloud-goto-nights-berlin-2016)
 
@@ -61,7 +61,7 @@ company culture. All IT people in AutoScout is passionate about technologies. Al
 from employees, where someone is explaining or showing what cool stuff he/she did, implemented or discovered.
 
 So if all this sounds interesting for you we would be happy to receive your CV and start necessary hiring process.
-Feel free to contact one of our colleagues:
+Feel free to contact one of our colleagues [picture ↓ is clickable]:
 
 [![Inside the AutoScout24](http://inside.autoscout24.com/img/post_img/tatsu_stack.jpg)](http://inside.autoscout24.com/career/2015/08/06/wanted-next-generation-software-engineer/)
 
