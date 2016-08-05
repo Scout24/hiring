@@ -5,8 +5,8 @@ Hi There,
 Our company AutoScout24 GmbH (http://www.autoscout24.com/) is searching for a Senior Engineer with relocation to Munich,
 Germany.
 
-Short summary of our stack: Scala, JS, SCSS, Play Framework, Akka [Actors, Streams, Http], Elasticsearch, Kafka, Apache
-Spark, AWS, Agile environment, microservices.
+Short summary of our stack: `Scala`, `JS`, `SCSS`, `Play` Framework, `Akka` [Actors, Streams, Http], `Elasticsearch`, 
+`Kafka`, `Apache Spark`, `AWS`, Agile environment, microservices.
 
 AutoScout24 is Europe's largest online car advertisement portal. Since last couple of years our development teams are
 working on slicing legacy monolith `.Net` application to the microservices using `Scala` and moving all infrastructure
@@ -26,14 +26,14 @@ More about our principles you can find out in our GitHub repository (feel free t
 
 https://github.com/AutoScout24/scout24-it-principles
 
-Also here is a video of our architect [Christian Deger](https://twitter.com/cdeger) who explains about our principles,
-culture and why we are doing it: 
+Also here is a video (YouTube) of our architect [Christian Deger](https://twitter.com/cdeger) who explains about our 
+principles, culture and why we are doing it: 
 
-https://www.youtube.com/watch?v=xM8CBgqCEBY
+[![Highway to heaven - Building microservices in the cloud](http://img.youtube.com/vi/xM8CBgqCEBY/0.jpg)](http://www.youtube.com/watch?v=xM8CBgqCEBY)
 
-Slides from this presentation: 
+Slides from this presentation (SlideShare): 
 
-http://www.slideshare.net/cdeger/building-microservices-in-the-cloud-goto-nights-berlin-2016
+[![Slides: Highway to heaven - Building microservices in the cloud](http://image.slidesharecdn.com/gotonightsberlin2016-160504115537/95/building-microservices-in-the-cloud-goto-nights-berlin-2016-1-638.jpg?cb=1462363122)](http://www.slideshare.net/cdeger/building-microservices-in-the-cloud-goto-nights-berlin-2016)
 
 Our teams are cross-functionals, we do not divide engineers on backend, frontend, QA or Ops. It is OK to be deeply
 specialised in one of the fields, but you should be ready to work in any area.
@@ -63,7 +63,7 @@ from employees, where someone is explaining or showing what cool stuff he/she di
 So if all this sounds interesting for you we would be happy to receive your CV and start necessary hiring process.
 Feel free to contact one of our colleagues:
 
-http://inside.autoscout24.com/career/2015/08/06/wanted-next-generation-software-engineer/
+[![Inside the AutoScout24](http://inside.autoscout24.com/img/post_img/tatsu_stack.jpg)](http://inside.autoscout24.com/career/2015/08/06/wanted-next-generation-software-engineer/)
 
 Or you also can directly contact me, [Pavlo](https://github.com/pvoznenko).
 
