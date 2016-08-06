@@ -8,6 +8,8 @@ Germany.
 Short summary of our stack: `Scala`, `JS` (`VanillaJS` - if you know what I mean ;)), `SCSS`, `Play` Framework, `Akka` [Actors, Streams, Http], `Elasticsearch`,
 `Kafka`, `Apache Spark`, `AWS`, Agile environment, microservices.
 
+![AutoScout24 logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/AutoScout24_logo.svg/320px-AutoScout24_logo.svg.png)
+
 AutoScout24 is Europe's largest online car advertisement portal. Since last couple of years our development teams are
 working on slicing legacy monolith `.Net` application to microservices using `Scala` and moving all infrastructure
 into the cloud powered by Amazon Web Services (`AWS`). We are also working on a fully reimplementation of our frontend part
