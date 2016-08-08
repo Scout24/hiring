@@ -2,7 +2,7 @@
 
 Hi There,
 
-Our company AutoScout24 GmbH (http://www.autoscout24.com/) is searching for a Senior Engineer with relocation to Munich,
+Our company AutoScout24 GmbH (http://www.autoscout24.com/) is searching for Senior Engineers with relocation to Munich,
 Germany.
 
 Short summary of our stack: `Scala`, `JS` (`VanillaJS` - if you know what I mean ;)), `SCSS`, `Play` Framework, `Akka` [Actors, Streams, Http], `Elasticsearch`,
@@ -16,7 +16,7 @@ into the cloud powered by Amazon Web Services (`AWS`). We are also working on a 
 
 http://inside.autoscout24.com/2015/01/04/autoscout24-changes-technology-aws-linux-jvm/
 
-A great thing about AutoScout24 is that the business is what demands these changes and the use of up-to-date technologies. So we as part of IT do not need to beg business for giving us time for refactorings or stabilisation, since it is fully in our competence and in the business interests to do so. With that in mind, it is still our main focous to keep the business values in mind in all that we are doing.
+A great thing about AutoScout24 is that the business is what demands these changes and the use of up-to-date technologies. So we as part of IT do not need to beg business for giving us time for refactorings or stabilisation, since it is fully in our competence and in the business interests to do so. With that in mind, it is still our main focus to keep the business values in mind in all that we are doing.
 
 In IT we defined a set of solid principles that guide us through our day-to-day business. Principles like “you build it, you run
 it”, “collaboration culture”, “autonomous teams”, “infrastructure as a code” and others that helps us in our development.
