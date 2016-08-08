@@ -31,7 +31,7 @@ Slides from this presentation (SlideShare)[picture ↓ is clickable]:
 
 Our teams are cross-functional, we do not divide engineers on backend, frontend, QA or Ops. It is OK to be deeply specialised in one of the fields, but you should be ready to work in any area.
 
-For our backends we generally use `Scala` but we also use `Ruby` and `Bash` scripts for deployment. When working with `AWS` Lambda we mostly use `Scala` but we also use `NodeJS`. We build microservices by the principle of “Share nothing” to achieve as much autonomy as possible. Our teams use the `Play` Framework and `Akka` stack with Actors, Streams & Http. To achieve high availability, performance and scalability of our services and to use best practices we consult and work directly with Lightbend (ex Typesafe), [Codecentric](https://github.com/Codecentric) and [ThoughtWorks](https://www.thoughtworks.com).
+For our backends we generally use `Scala` but we also use `Ruby` and `Bash` scripts for deployment. When working with `AWS` Lambda we mostly use `Scala` but we also use `NodeJS`. We build microservices by the principle of “Share nothing” to achieve as much autonomy as possible. Our teams use the `Play` Framework and `Akka` stack with Actors, Streams & Http. To achieve high availability, performance and scalability of our services and to use best practices we consult and work directly with Lightbend (ex Typesafe), [Codecentric](https://www.codecentric.de/) and [ThoughtWorks](https://www.thoughtworks.com).
 
 Our frontend is built with the principle of “Mobile first” in mind (Mobile Web). We do responsive design with help
 of `SCSS` and we care about page load. We try to minimize external `JS` libraries and prefer pure `JS` (`Vanilla JS` ;)).
