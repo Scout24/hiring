@@ -40,7 +40,7 @@ You as a team member are responsible for code quality and for covering this code
 
 Candidate should not be scared of working with the command line. We are using the concept "You build it, you run it", so the team is responsible for owning microservices in `AWS`, therefore you should be ready to fix problems during "on call" duty. We as a team are responsible for implementing all the necessary monitoring \ alerting tools, to be aware of what's going on with our microservices on production.
 
-You should be open to do a lot of (self-) education and be open to learn new things. Autoscout24 provides a lot of training and is invested in each employee to become smarter and better in what they do. This is an integral part of our company culture. All of the IT people at AutoScout24 are passionate about technology. Almost every week there are 1-3 workshops from employees, where someone is explaining or showing what cool stuff they did, implemented or discovered.
+You should be open to do a lot of (self-) education and be open to learn new things. AutoScout24 provides a lot of training and is invested in each employee to become smarter and better in what they do. This is an integral part of our company culture. All of the IT people at AutoScout24 are passionate about technology. Almost every week there are 1-3 workshops from employees, where someone is explaining or showing what cool stuff they did, implemented or discovered.
 
 So if all of this sounds interesting for you we would be happy to receive your CV. Feel free to contact one of our
 colleagues [picture ↓ is clickable]:
