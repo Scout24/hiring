@@ -29,7 +29,7 @@ Slides from this presentation (SlideShare)[picture ↓ is clickable]:
 
 [![Slides: Highway to heaven - Building microservices in the cloud](http://image.slidesharecdn.com/gotonightsberlin2016-160504115537/95/building-microservices-in-the-cloud-goto-nights-berlin-2016-1-638.jpg?cb=1462363122)](http://www.slideshare.net/cdeger/building-microservices-in-the-cloud-goto-nights-berlin-2016)
 
-Feel free to visit the M[Microservices Meetup in Munich](http://www.meetup.com/Microservices-Meetup-Munich/) orginised by Christian. We are trying to invite interesting speekers from all over the world, we are proud to say that for last couple of years our speakers were: Stefan Tilkov, James Lewis, Sam Newman, Phil Calçado, Eberhard Wolff, Uwe Friedrichsen, 
+Feel free to visit the [Microservices Meetup in Munich](http://www.meetup.com/Microservices-Meetup-Munich/) organised by Christian. We are trying to invite interesting speekers from all over the world, we are proud to say that for last couple of years our speakers were: Stefan Tilkov, James Lewis, Sam Newman, Phil Calçado, Eberhard Wolff, Uwe Friedrichsen, 
 Chris Richardson, Adrian Cockcroft, Gregor Hohpe.
 
 You can also watch videos from the Microservices Meetup on our YouTube Channel:
