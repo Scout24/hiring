@@ -29,6 +29,12 @@ Slides from this presentation (SlideShare)[picture ↓ is clickable]:
 
 [![Slides: Highway to heaven - Building microservices in the cloud](http://image.slidesharecdn.com/gotonightsberlin2016-160504115537/95/building-microservices-in-the-cloud-goto-nights-berlin-2016-1-638.jpg?cb=1462363122)](http://www.slideshare.net/cdeger/building-microservices-in-the-cloud-goto-nights-berlin-2016)
 
+Feel free to visit [Microservices Meetup in Munich](http://www.meetup.com/Microservices-Meetup-Munich/) orginised by Christian. We trying to invite interesting speekers from all over the world, we proud to say that for last couple of years our speakers was: Stefan Tilkov, James Lewis, Sam Newman, Phil Calçado, Eberhard Wolff, Adrian Cockcroft, Gregor Hohpe.
+
+You can also watch videos from the Microservices Meetup on our YouTube Channel:
+
+https://www.youtube.com/channel/UCeh0x77J4sv2E1IFMzAEiBw
+
 Our teams are cross-functional, we do not divide engineers on backend, frontend, QA or Ops. It is OK to be deeply specialised in one of the fields, but you should be ready to work in any area.
 
 For our backends we generally use `Scala` but we also use `Ruby` and `Bash` scripts for deployment. When working with `AWS` Lambda we mostly use `Scala` but we also use `NodeJS`. We build microservices by the principle of “Share nothing” to achieve as much autonomy as possible. Our teams use the `Play` Framework and `Akka` stack with Actors, Streams & Http. To achieve high availability, performance and scalability of our services and to use best practices we consult and work directly with Lightbend (ex Typesafe), [Codecentric](https://www.codecentric.de/) and [ThoughtWorks](https://www.thoughtworks.com).
@@ -39,6 +45,10 @@ of `SCSS` and we care about page load. We try to minimize external `JS` librarie
 You as a team member are responsible for code quality and for covering this code with tests. Of course you should feel free to use knowledge and experience from our QA engineers. So, do not write bad code, write good code! ;)
 
 Candidate should not be scared of working with the command line. We are using the concept "You build it, you run it", so the team is responsible for owning microservices in `AWS`, therefore you should be ready to fix problems during "on call" duty. We as a team are responsible for implementing all the necessary monitoring \ alerting tools, to be aware of what's going on with our microservices on production.
+
+I you would like to know more about why we chose `AWS` and how it works for us, you can read it in Amazon Web Services Case Study (article in German):
+
+https://aws.amazon.com/de/solutions/case-studies/autoscout24/
 
 You should be open to do a lot of (self-) education and be open to learn new things. AutoScout24 provides a lot of training and is invested in each employee to become smarter and better in what they do. This is an integral part of our company culture. All of the IT people at AutoScout24 are passionate about technology. Almost every week there are 1-3 workshops from employees, where someone is explaining or showing what cool stuff they did, implemented or discovered.
 
