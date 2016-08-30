@@ -13,7 +13,7 @@ For the employees our company offers following benefits:
 * Yearly budget per employee for the conferences and education;
 * A lot of trainings and workshops inside the company;
 * German \ English classes;
-* Company pension plan; 
+* Company pension plan;
 * Free books;
 * Flexible working hours;
 * Possibility to work from home - home office;
@@ -47,7 +47,7 @@ Slides from this presentation (SlideShare)[picture ↓ is clickable]:
 
 [![Slides: Highway to heaven - Building microservices in the cloud](https://cloud.githubusercontent.com/assets/1098414/17675771/7b76081c-632b-11e6-8b73-afc80413318f.jpg)](http://www.slideshare.net/cdeger/building-microservices-in-the-cloud-goto-nights-berlin-2016)
 
-Feel free to visit the [Microservices Meetup in Munich](http://www.meetup.com/Microservices-Meetup-Munich/) organised by Christian. We are trying to invite interesting speakers from all over the world, we are proud to say that for last couple of years our speakers were: Stefan Tilkov, James Lewis, Sam Newman, Phil Calçado, Eberhard Wolff, Uwe Friedrichsen, 
+Feel free to visit the [Microservices Meetup in Munich](http://www.meetup.com/Microservices-Meetup-Munich/) organised by Christian. We are trying to invite interesting speakers from all over the world, we are proud to say that for last couple of years our speakers were: Stefan Tilkov, James Lewis, Sam Newman, Phil Calçado, Eberhard Wolff, Uwe Friedrichsen,
 Chris Richardson, Adrian Cockcroft, Gregor Hohpe.
 
 You can also watch videos from the Microservices Meetup on our YouTube Channel [picture ↓ is clickable]:
@@ -60,6 +60,12 @@ For our backends we generally use `Scala` but we also use `Ruby` and `Bash` scri
 
 Our frontend is built with the principle of “Mobile first” in mind (Mobile Web). We do responsive design with help
 of `SCSS` and we care about page load. We try to minimize external `JS` libraries and prefer pure `JS` (`Vanilla JS`).
+
+Feel free to check out some of our Open Sourced frontend libraries:
+- https://github.com/AutoScout24/showcar-pictures
+- https://gitlab.com/web-experience/showcar-ui
+
+Also our Web Experience team built Bootstrap library with AutoScout24 styles: https://web-experience.gitlab.io/showcar-ui/ 
 
 You as a team member are responsible for code quality and for covering this code with tests. Of course you should feel free to use knowledge and experience from our QA engineers. So, do not write bad code, write good code! ;)
 
