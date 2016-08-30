@@ -7,6 +7,9 @@ Our company AutoScout24 GmbH (http://www.autoscout24.com/) is searching for Soft
 Short summary of our stack: Scala, JS, VanillaJS, SCSS, Play Framework, Akka Actors, Akka Streams, Akka Http, Elasticsearch,
 Apache Kafka, Apache Spark, AWS, Agile environment, microservices.
 
+If for some reason you do not know one \ some of the mentioned technologies \ languages - don't give up!
+We believe that attitude and mindset matters! If you have relevant experience in web or \ and experience with another JVM \ FP language - do not hesitate to apply. We believe that you will learn what is needed, we will help and support you on this learning path.
+
 For the employees our company offers following benefits:
 * 30 working days of paid vacation per year (+ Bavaria has the most public holidays in Germany - 13 days per year);
 * Relocation bonus;
@@ -22,8 +25,7 @@ For the employees our company offers following benefits:
 * Free to choose working computer, most of our engineers prefer to work on Macs;
 * Free tea, coffee, fruits - I guess nowadays it is industry standard;
 * Paid working days to take care of the sick child;
-* Good life \ work balance - family friendly company;
-* Optional: company phone with internet.
+* Good life \ work balance - family friendly company.
 
 ![AutoScout24 logo](https://cloud.githubusercontent.com/assets/1098414/17675779/806f7614-632b-11e6-85f8-d53e4a745054.png)
 
@@ -65,7 +67,7 @@ Feel free to check out some of our Open Sourced frontend libraries:
 - https://github.com/AutoScout24/showcar-pictures
 - https://gitlab.com/web-experience/showcar-ui
 
-Also our Web Experience team built Bootstrap library with AutoScout24 styles: https://web-experience.gitlab.io/showcar-ui/ 
+Also our Web Experience team built Bootstrap library with AutoScout24 styles: https://web-experience.gitlab.io/showcar-ui/
 
 You as a team member are responsible for code quality and for covering this code with tests. Of course you should feel free to use knowledge and experience from our QA engineers. So, do not write bad code, write good code! ;)
 
