@@ -7,6 +7,24 @@ Our company AutoScout24 GmbH (http://www.autoscout24.com/) is searching for Soft
 Short summary of our stack: `Scala`, `JS` (`VanillaJS` - if you know what I mean ;)), `SCSS`, `Play` Framework, `Akka` [Actors, Streams, Http], `Elasticsearch`,
 `Kafka`, `Apache Spark`, `AWS`, Agile environment, microservices.
 
+For the employees our company offers following benefits:
+* 30 working days of paid vacation per year (+ Bavaria has most public holidays in Germany - 13 days per year);
+* Relocation bonus;
+* Yearly budget per employee for the conferences and education;
+* A lot of trainings and workshops inside the company;
+* German \ English classes;
+* Company pension plan; 
+* Free books;
+* Flexible working hours;
+* Possibility to work from home - home office;
+* Free parking lot;
+* Oktoberfest ;)
+* Free to choose working computer, most of our engineers prefer to work on Macs :)
+* Free tea, coffee, fruits - I guess nowadays it is industry standard;
+* Paid working days to take care of the sick child;
+* Good life \ work balance - family friendly company;
+* Optional: company phone with internet.
+
 ![AutoScout24 logo](https://cloud.githubusercontent.com/assets/1098414/17675779/806f7614-632b-11e6-85f8-d53e4a745054.png)
 
 AutoScout24 is Europe's largest online car advertisement portal. For the last last couple of years our development teams have been working on slicing our legacy monolith `.NET` application to microservices. We are using `Scala` and moving all infrastructure into the cloud powered by Amazon Web Services (`AWS`). We are also working on a full reimplementation of our frontend, with the aim of being ”Mobile first”. You can read more about our move in our blog:
