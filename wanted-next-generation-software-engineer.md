@@ -8,7 +8,7 @@ Short summary of our stack: `Scala`, `JS` (`VanillaJS` - if you know what I mean
 `Kafka`, `Apache Spark`, `AWS`, Agile environment, microservices.
 
 For the employees our company offers following benefits:
-* 30 working days of paid vacation per year (+ Bavaria has most public holidays in Germany - 13 days per year);
+* 30 working days of paid vacation per year (+ Bavaria has the most public holidays in Germany - 13 days per year);
 * Relocation bonus;
 * Yearly budget per employee for the conferences and education;
 * A lot of trainings and workshops inside the company;
