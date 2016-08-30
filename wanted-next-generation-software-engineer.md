@@ -2,7 +2,7 @@
 
 Hi There,
 
-Our company AutoScout24 GmbH (http://www.autoscout24.com/) is searching for Senior Engineers to work on site here in Munich, Germany.
+Our company AutoScout24 GmbH (http://www.autoscout24.com/) is searching for Software Engineers to work on site here in Munich, Germany.
 
 Short summary of our stack: `Scala`, `JS` (`VanillaJS` - if you know what I mean ;)), `SCSS`, `Play` Framework, `Akka` [Actors, Streams, Http], `Elasticsearch`,
 `Kafka`, `Apache Spark`, `AWS`, Agile environment, microservices.
