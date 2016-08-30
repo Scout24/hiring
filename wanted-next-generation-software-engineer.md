@@ -4,8 +4,8 @@ Hi There,
 
 Our company AutoScout24 GmbH (http://www.autoscout24.com/) is searching for Software Engineers to work on site here in Munich, Germany.
 
-Short summary of our stack: `Scala`, `JS` (`VanillaJS` - if you know what I mean ;)), `SCSS`, `Play` Framework, `Akka` [Actors, Streams, Http], `Elasticsearch`,
-`Kafka`, `Apache Spark`, `AWS`, Agile environment, microservices.
+Short summary of our stack: Scala, JS, VanillaJS, SCSS, Play Framework, Akka Actors, Akka Streams, Akka Http, Elasticsearch,
+Apache Kafka, Apache Spark, AWS, Agile environment, microservices.
 
 For the employees our company offers following benefits:
 * 30 working days of paid vacation per year (+ Bavaria has the most public holidays in Germany - 13 days per year);
@@ -18,8 +18,8 @@ For the employees our company offers following benefits:
 * Flexible working hours;
 * Possibility to work from home - home office;
 * Free parking lot;
-* Oktoberfest ;)
-* Free to choose working computer, most of our engineers prefer to work on Macs :)
+* Oktoberfest;
+* Free to choose working computer, most of our engineers prefer to work on Macs;
 * Free tea, coffee, fruits - I guess nowadays it is industry standard;
 * Paid working days to take care of the sick child;
 * Good life \ work balance - family friendly company;
