@@ -2,41 +2,42 @@
 
 Hi There,
 
-Our company AutoScout24 GmbH (http://www.autoscout24.com/) is searching for Software Engineers to work on site here in Munich, Germany.
+Our company AutoScout24 GmbH (http://www.autoscout24.com/) is searching for Software Engineers to work on-site here in Munich, Germany.
 
 Short summary of our stack: Scala, JS, VanillaJS, SCSS, Play Framework, Akka Actors, Akka Streams, Akka Http, Elasticsearch,
 Apache Kafka, Apache Spark, AWS, Agile environment, microservices.
 
-If for some reason you do not know one \ some of the mentioned technologies \ languages - don't give up!
-We believe that attitude and mindset matters! If you have relevant experience in web or \ and experience with another JVM \ FP language - do not hesitate to apply. We believe that you will learn what is needed, we will help and support you on this learning path.
+If you do not know one or some of the mentioned technologies or languages, don't give up!
+We believe that attitude and mindset matters! If you have relevant experience in web and/or experience with another JVM or functional language — do not hesitate to apply. We believe that you will learn what is needed, we will help and support you on this learning path.
 
-For the employees our company offers following benefits:
-* 30 working days of paid vacation per year (+ Bavaria has the most public holidays in Germany - 13 days per year);
+Our company offers following benefits to all engineers:
+
+* 30 working days of paid vacation per year (+ Bavaria has the most public holidays in Germany — 13 days per year);
 * Relocation bonus;
 * Yearly budget per employee for the conferences and education;
 * A lot of trainings and workshops inside the company;
-* German \ English classes;
+* German and English classes;
 * Company pension plan;
 * Free books;
 * Flexible working hours;
-* Possibility to work from home - home office;
+* Possibility to work from home office;
 * Free parking lot;
 * Oktoberfest;
 * Free to choose working computer, most of our engineers prefer to work on Macs;
-* Free tea, coffee, fruits - I guess nowadays it is industry standard;
+* Free tea, coffee, fruits. I guess nowadays it is industry standard;
 * Paid working days to take care of the sick child;
-* Good life \ work balance - family friendly company.
+* Good life-work balance. We are a family-friendly company.
 
 ![AutoScout24 logo](https://cloud.githubusercontent.com/assets/1098414/17675779/806f7614-632b-11e6-85f8-d53e4a745054.png)
 
-AutoScout24 is Europe's largest online car advertisement portal. For the last last couple of years our development teams have been working on slicing our legacy monolith `.NET` application to microservices. We are using `Scala` and moving all infrastructure into the cloud powered by Amazon Web Services (`AWS`). We are also working on a full reimplementation of our frontend, with the aim of being ”Mobile first”. You can read more about our move in our blog:
+AutoScout24 is Europe's largest online car advertisement portal. For the last couple of years our development teams have been working on slicing up our legacy monolith `.NET` application into microservices. We are using `Scala` and moving all infrastructure into the cloud powered by Amazon Web Services (`AWS`). We are also working on a full reimplementation of our frontend, with the aim of being ”Mobile first”. You can read more about our move in our blog:
 
 http://inside.autoscout24.com/2015/01/04/autoscout24-changes-technology-aws-linux-jvm/
 
-One of the nice things about AutoScout24 is that it is the business who demands changes and the use of up-to-date technologies. This means that as part of IT do not need to beg the business to allow us the time for refactoring or stabilisation. It is fully in our control and in the business interests to do so. However it is important that we are focused and keep the business values in mind in everything that we do.
+AutoScout24 is a business that demands change and the use of up-to-date technologies. Our engineering group do not need to beg the business to allow us the time for refactoring or stabilisation. It is fully in our control and in the business's interests to do so. However, it is important that we are focused and keep the business values in mind in everything that we do.
 
-In IT we defined a set of solid principles that guide us through our day-to-day business. Principles like “you build it, you run
-it”, “collaboration culture”, “autonomous teams”, “infrastructure as a code” and others that helps us in our development.
+We defined a set of solid principles that guide us through our day-to-day business. Principles like “you build it, you run
+it”, “collaboration culture”, “autonomous teams”, “infrastructure as a code” and others help guide our development.
 You can find more about our principles in our GitHub repository (feel free to open PDF files to have formatted text):
 
 https://github.com/AutoScout24/scout24-it-principles
@@ -56,28 +57,29 @@ You can also watch videos from the Microservices Meetup on our YouTube Channel [
 
 [![Our YouTube](https://cloud.githubusercontent.com/assets/1098414/17675781/8301b5ea-632b-11e6-9519-470a7b8c096e.png)](https://www.youtube.com/channel/UCeh0x77J4sv2E1IFMzAEiBw)
 
-Our teams are cross-functional, we do not divide engineers on backend, frontend, QA or Ops. It is OK to be deeply specialised in one of the fields, but you should be ready to work in any area.
+Our teams are cross-functional. We do not divide engineers on backend, frontend, QA or Ops. It is OK to be deeply specialised in one of the fields, but you should be ready to work in any area.
 
-For our backends we generally use `Scala` but we also use `Ruby` and `Bash` scripts for deployment. When working with `AWS` Lambda we mostly use `Scala` but we also use `NodeJS`. We build microservices by the principle of “Share nothing” to achieve as much autonomy as possible. Our teams use the `Play` Framework and `Akka` stack with Actors, Streams & Http. To achieve high availability, performance and scalability of our services and to use best practices we consult and work directly with Lightbend (ex Typesafe), [Codecentric](https://www.codecentric.de/) and [ThoughtWorks](https://www.thoughtworks.com).
+For our backends we generally use `Scala` but we also use `Ruby` and `Bash` scripts for deployment. When working with `AWS` Lambda we mostly use `Scala` but we also use `NodeJS`. We build microservices with the principle of “Share nothing” to achieve as much autonomy as possible. Our teams use the `Play` Framework and `Akka` stack with Actors, Streams and Http. To achieve high availability, performance and scalability of our services and to use best practices we consult and work directly with Lightbend (ex Typesafe), [Codecentric](https://www.codecentric.de/) and [ThoughtWorks](https://www.thoughtworks.com).
 
 Our frontend is built with the principle of “Mobile first” in mind (Mobile Web). We do responsive design with help
 of `SCSS` and we care about page load. We try to minimize external `JS` libraries and prefer pure `JS` (`Vanilla JS`).
 
 Feel free to check out some of our Open Sourced frontend libraries:
+
 - https://github.com/AutoScout24/showcar-pictures
 - https://gitlab.com/web-experience/showcar-ui
 
 Also our Web Experience team built Bootstrap library with AutoScout24 styles: https://web-experience.gitlab.io/showcar-ui/
 
-You as a team member are responsible for code quality and for covering this code with tests. Of course you should feel free to use knowledge and experience from our QA engineers. So, do not write bad code, write good code! ;)
+You as a team member are responsible for code quality and for covering your code with tests. Of course you should feel free to use knowledge and experience from our QA engineers. So, do not write bad code, write good code! ;)
 
-Candidate should not be scared of working with the command line. We are using the concept "You build it, you run it", so the team is responsible for owning microservices in `AWS`, therefore you should be ready to fix problems during "on call" duty. We as a team are responsible for implementing all the necessary monitoring \ alerting tools, to be aware of what's going on with our microservices on production.
+Candidate should not be scared of working with the command line. We are using the concept "You build it, you run it", so the team is responsible for owning microservices in `AWS`, therefore you should be ready to fix problems during "on call" duty. Each team us responsible for implementing all the monitoring and alerting tools necessary to be aware of what's going on with their microservices on production.
 
 If you would like to know more about why we chose `AWS` and how it works for us, you can read it in our Amazon Web Services Case Study (article in German)[picture ↓ is clickable]:
 
 [![AWS Case Study](https://cloud.githubusercontent.com/assets/1098414/17675782/870152ea-632b-11e6-8bd6-9e78b409e341.png)](https://aws.amazon.com/de/solutions/case-studies/autoscout24/)
 
-You should be open to do a lot of (self-) education and be open to learn new things. AutoScout24 provides a lot of training and is invested in each employee to become smarter and better in what they do. This is an integral part of our company culture. All of the IT people at AutoScout24 are passionate about technology. Almost every week there are 1-3 workshops from employees, where someone is explaining or showing what cool stuff they did, implemented or discovered.
+You should be open to do a lot of (self-) education and be open to learning new things. AutoScout24 provides a lot of training and is invested in each employee to become smarter and better in what they do. This is an integral part of our company culture. All of the IT people at AutoScout24 are passionate about technology. Almost every week there are 1-3 workshops from employees, where someone is explaining or showing what cool stuff they did, implemented or discovered.
 
 So if all of this sounds interesting for you we would be happy to receive your CV. Feel free to contact one of our
 colleagues [picture ↓ is clickable]:
