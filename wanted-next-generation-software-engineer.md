@@ -23,7 +23,10 @@ Our company offers following benefits to all engineers:
 * Possibility to work from home office;
 * Free parking lot;
 * Oktoberfest;
-* Free to choose working computer, most of our engineers prefer to work on Macs;
+* Kicker;
+* Office with mountain view - you can see Alps;
+* Good transport connection;
+* MacBook Pro with Retina display - as default machine for the engineers;
 * Free tea, coffee, fruits. I guess nowadays it is industry standard;
 * Paid working days to take care of the sick child;
 * Good life-work balance. We are a family-friendly company.
