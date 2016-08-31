@@ -73,7 +73,7 @@ Also our Web Experience team built Bootstrap library with AutoScout24 styles: ht
 
 You as a team member are responsible for code quality and for covering your code with tests. Of course you should feel free to use knowledge and experience from our QA engineers. So, do not write bad code, write good code! ;)
 
-Candidate should not be scared of working with the command line. We are using the concept "You build it, you run it", so the team is responsible for owning microservices in `AWS`, therefore you should be ready to fix problems during "on call" duty. Each team us responsible for implementing all the monitoring and alerting tools necessary to be aware of what's going on with their microservices on production.
+Candidate should not be scared of working with the command line. We are using the concept "You build it, you run it", so the team is responsible for owning microservices in `AWS`, therefore you should be ready to fix problems during "on call" duty. Each team is responsible for implementing all the monitoring and alerting tools necessary to be aware of what's going on with their microservices on production.
 
 If you would like to know more about why we chose `AWS` and how it works for us, you can read it in our Amazon Web Services Case Study (article in German)[picture ↓ is clickable]:
 
