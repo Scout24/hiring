@@ -5,4 +5,4 @@ open engineering positions.
 
 ## Owner
 
-The Smaug team owning this repository: [#AS24-Smaug-Team-ds@scout24.com](mailto:#AS24-Smaug-Team-ds@scout24.com)
+The Smaug team is owning this repository: [#AS24-Smaug-Team-ds@scout24.com](mailto:#AS24-Smaug-Team-ds@scout24.com)
