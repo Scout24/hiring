@@ -1,6 +1,6 @@
 # AutoScout24 is Hiring!
 
-In this public repository we collected descriptions of [AutoScout24 GmbH](https://www.autoscout24.com/) 
+In this public repository where we collected descriptions of [AutoScout24 GmbH](https://www.autoscout24.com/) 
 open engineering positions.
 
 ## Owner
