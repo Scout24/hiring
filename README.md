@@ -24,7 +24,7 @@ Our company offers following benefits to all engineers:
 * Free parking lot;
 * Oktoberfest;
 * Kicker;
-* Office with mountain view - you can see Alps;
+* Office with mountain view - [you can see Alps](https://www.google.com/search?q=alpen+ten+towers+m%C3%BCnchen&espv=2&source=lnms&tbm=isch&sa=X);
 * Good transport connection;
 * MacBook Pro with Retina display - as default machine for the engineers;
 * Free tea, coffee, fruits. I guess nowadays it is industry standard;
@@ -89,16 +89,30 @@ colleagues [picture ↓ is clickable]:
 
 [![Inside the AutoScout24](https://cloud.githubusercontent.com/assets/1098414/17675763/75b10ab2-632b-11e6-93e4-e36ef725fc7b.jpg)](http://inside.autoscout24.com/career/2015/08/06/wanted-next-generation-software-engineer/)
 
-Or you also can directly contact me, [Pavlo](https://github.com/pvoznenko).
+#### Questions
+* From time to time we get questions like: "Are the teams very specialized in the stack listed above?".
 
-My email address is: pvoznenko@autoscout24.com
+It depends really of the particular team. Since we’re trying to follow the principle "you build it, you run it" every team has a set of products created and run by this team, related to one area of the business. From this perspective there are teams which have for sure more correlation to different technologies like Elasticsearch or Kafka. 
+Let’s assume you are in a team and this team unfortunately has nothing to do with a newest technology of your dream, but the neighbor team does. And you’re completely unhappy and demotivated in this situation. What is to do? Well, currently in AutoScout24 we’re not practicing job rotation on regular basis. But, for sure it makes sense to talk about such situations in order to find a suitable solution for all participants.
+(Btw. there is another possible way for introducing a technology of your dream – you just have to persuade your team and show usage benefits of those technology in current / future products).
+So, thinking "out of the box" is not a criminal issue :), don't be afraid to extend your influence! We even appreciate it!
+
+* Another question: "Are you open to new technologies?".
+
+Well, it depends one more time :), I’ll explain why. 
+Remember, one of our principles "AUTONOMOUS TEAMS. Make fast local decisions. Be responsible. Know your boundaries. Share findings". If you would like to introduce some amazing ideas/solutions for your local team, it’s very likely doable and completely fine. If this is something bigger and affects other teams, well, we have to think/talk about it (for example in a architecture guild session).
+I’d like to provide an example - our architecture is based on micro services which has been written in Scala (partially in NodeJS for Lambda). And, it’s highly unlikely we would introduce something else like Go, at least at the moment. Why not? Well, because nobody is perfect, we have from time to time situations where a product suddenly must be completely shifted (for supporting/maintaining) to another team (yes, despite “you build it, you run it” principle). And now imagine, a team is responsible for a product, but no one in this team is able to maintain it because of missing knowledge. A pure disaster :(.
+So, I like to complete the question above with a thought – nothing is written in stone, it’s a matter of common sense in the particular time period of our development.
+
+
+Or you also can directly contact me Pavlo (pvoznenko@autoscout24.com) or Juri (jsmarschevski@autoscout24.com).
 
 If you have questions do not hesitate to ask.
 
 Best Regards,
 
-Pavlo Voznenko
+Pavlo Voznenko and Juri Smarschevski
 
-- My Skype: p.voznenko
+- Skype: p.voznenko or juri.smarschevski
 - Twitter: https://twitter.com/pvoznenko
 - GitHub: https://github.com/pvoznenko
