@@ -24,7 +24,7 @@ Our company offers following benefits to all engineers:
 * Free parking lot;
 * Oktoberfest;
 * Kicker;
-* Office with mountain view - <a href="https://www.google.com/search?q=alpen+ten+towers+m%C3%BCnchen&espv=2&source=lnms&tbm=isch&sa=X"  target="_blank">you can see Alps</a>;
+* Office with mountain view - [you can see Alps](https://www.google.com/search?q=alpen+ten+towers+m%C3%BCnchen&espv=2&source=lnms&tbm=isch&sa=X);
 * Good transport connection;
 * MacBook Pro with Retina display - as default machine for the engineers;
 * Free tea, coffee, fruits. I guess nowadays it is industry standard;
@@ -105,16 +105,14 @@ I’d like to provide an example - our architecture is based on micro services w
 So, I like to complete the question above with a thought – nothing is written in stone, it’s a matter of common sense in the particular time period of our development.
 
 
-Or you also can directly contact me Pavlo (pvoznenko@autoscout24.com) or Juri (jsmarschevski@autoscout24.com)
-
-[Pavlo Github ](https://github.com/pvoznenko)
+Or you also can directly contact me Pavlo (pvoznenko@autoscout24.com) or Juri (jsmarschevski@autoscout24.com).
 
 If you have questions do not hesitate to ask.
 
 Best Regards,
 
-Pavlo Voznenko
+Pavlo Voznenko and Juri Smarschevski
 
-- My Skype: p.voznenko
+- Skype: p.voznenko or juri.smarschevski
 - Twitter: https://twitter.com/pvoznenko
 - GitHub: https://github.com/pvoznenko
