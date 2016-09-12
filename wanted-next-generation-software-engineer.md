@@ -24,7 +24,7 @@ Our company offers following benefits to all engineers:
 * Free parking lot;
 * Oktoberfest;
 * Kicker;
-* Office with mountain view - <a href="https://www.google.com/search?ion=1&espv=2&ie=UTF-8&q=alpen%20ten%20towers%20münchen&oq=alpen%20ten%20towers%20münchen&aqs=chrome..69i57.20577j0j7" target="_blank">you can see Alps</a>;
+* Office with mountain view - <a href="https://www.google.com/search?q=alpen+ten+towers+m%C3%BCnchen&espv=2&source=lnms&tbm=isch&sa=X"  target="_blank">you can see Alps</a>;
 * Good transport connection;
 * MacBook Pro with Retina display - as default machine for the engineers;
 * Free tea, coffee, fruits. I guess nowadays it is industry standard;
