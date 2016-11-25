@@ -105,7 +105,7 @@ I’d like to provide an example - our architecture is based on micro services w
 So, I like to complete the question above with a thought – nothing is written in stone, it’s a matter of common sense in the particular time period of our development.
 
 
-Or you also can directly contact me Pavlo (pvoznenko@autoscout24.com) or Juri (jsmarschevski@autoscout24.com).
+Or you also can directly contact me Pavlo (pavlo.voznenko@scout24.com) or Juri (juri.smarschevski@scout24.com).
 
 If you have questions do not hesitate to ask.
 
