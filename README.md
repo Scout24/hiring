@@ -5,7 +5,7 @@ Hi There,
 Our company AutoScout24 GmbH (http://www.autoscout24.com/) is searching for Software Engineers to work on-site here in Munich, Germany.
 
 Short summary of our stack: Scala, JS, VanillaJS, SCSS, Play Framework, Akka Actors, Akka Streams, Akka Http, Elasticsearch,
-Apache Kafka, Apache Spark, AWS, Agile environment, microservices.
+Apache Kafka, AWS, Agile environment, microservices.
 
 If you do not know one or some of the mentioned technologies or languages, don't give up!
 We believe that attitude and mindset matters! If you have relevant experience in web and/or experience with another JVM or functional language — do not hesitate to apply. We believe that you will learn what is needed, we will help and support you on this learning path.
@@ -70,9 +70,9 @@ of `SCSS` and we care about page load. We try to minimize external `JS` librarie
 Feel free to check out some of our Open Sourced frontend libraries:
 
 - https://github.com/AutoScout24/showcar-pictures
-- https://gitlab.com/web-experience/showcar-ui
+- https://github.com/AutoScout24/showcar-ui
 
-Also our Web Experience team built Bootstrap library with AutoScout24 styles: https://web-experience.gitlab.io/showcar-ui/
+Also our Web Experience team built Bootstrap library with AutoScout24 styles: https://autoscout24.github.io/showcar-ui/
 
 You as a team member are responsible for code quality and for covering your code with tests. Of course you should feel free to use knowledge and experience from our QA engineers. So, do not write bad code, write good code! ;)
 
@@ -81,6 +81,8 @@ Candidate should not be scared of working with the command line. We are using th
 If you would like to know more about why we chose `AWS` and how it works for us, you can read it in our Amazon Web Services Case Study (article in German)[picture ↓ is clickable]:
 
 [![AWS Case Study](https://cloud.githubusercontent.com/assets/1098414/17675782/870152ea-632b-11e6-8bd6-9e78b409e341.png)](https://aws.amazon.com/de/solutions/case-studies/autoscout24/)
+
+Also recently Werner Vogels CTO of Amazon mentioned us in his blog as good example how autonomy brings freedom to create: ["How companies can become magnets for digital talent"](http://www.allthingsdistributed.com/2017/03/digital-talent.html).
 
 You should be open to do a lot of (self-) education and be open to learning new things. AutoScout24 provides a lot of training and is invested in each employee to become smarter and better in what they do. This is an integral part of our company culture. All of the IT people at AutoScout24 are passionate about technology. Almost every week there are 1-3 workshops from employees, where someone is explaining or showing what cool stuff they did, implemented or discovered.
 
@@ -92,20 +94,20 @@ colleagues [picture ↓ is clickable]:
 #### Questions
 * From time to time we get questions like: "Are the teams very specialized in the stack listed above?".
 
-It depends really of the particular team. Since we’re trying to follow the principle "you build it, you run it" every team has a set of products created and run by this team, related to one area of the business. From this perspective there are teams which have for sure more correlation to different technologies like Elasticsearch or Kafka. 
+It depends really of the particular team. Since we’re trying to follow the principle "you build it, you run it" every team has a set of products created and run by this team, related to one area of the business. From this perspective there are teams which have for sure more correlation to different technologies like Elasticsearch or Kafka.
 Let’s assume you are in a team and this team unfortunately has nothing to do with a newest technology of your dream, but the neighbor team does. And you’re completely unhappy and demotivated in this situation. What is to do? Well, currently in AutoScout24 we’re not practicing job rotation on regular basis. But, for sure it makes sense to talk about such situations in order to find a suitable solution for all participants.
 (Btw. there is another possible way for introducing a technology of your dream – you just have to persuade your team and show usage benefits of those technology in current / future products).
 So, thinking "out of the box" is not a criminal issue :), don't be afraid to extend your influence! We even appreciate it!
 
 * Another question: "Are you open to new technologies?".
 
-Well, it depends one more time :), I’ll explain why. 
+Well, it depends one more time :), I’ll explain why.
 Remember, one of our principles "AUTONOMOUS TEAMS. Make fast local decisions. Be responsible. Know your boundaries. Share findings". If you would like to introduce some amazing ideas/solutions for your local team, it’s very likely doable and completely fine. If this is something bigger and affects other teams, well, we have to think/talk about it (for example in a architecture guild session).
 I’d like to provide an example - our architecture is based on micro services which has been written in Scala (partially in NodeJS for Lambda). And, it’s highly unlikely we would introduce something else like Go, at least at the moment. Why not? Well, because nobody is perfect, we have from time to time situations where a product suddenly must be completely shifted (for supporting/maintaining) to another team (yes, despite “you build it, you run it” principle). And now imagine, a team is responsible for a product, but no one in this team is able to maintain it because of missing knowledge. A pure disaster :(.
 So, I like to complete the question above with a thought – nothing is written in stone, it’s a matter of common sense in the particular time period of our development.
 
 
-Or you also can directly contact me Pavlo (pavlo.voznenko@scout24.com) or Juri (juri.smarschevski@scout24.com).
+Or you also can directly contact Pavlo (pavlo.voznenko@scout24.com) or Juri (juri.smarschevski@scout24.com).
 
 If you have questions do not hesitate to ask.
 
@@ -116,3 +118,4 @@ Pavlo Voznenko and Juri Smarschevski
 - Skype: p.voznenko or juri.smarschevski
 - Twitter: https://twitter.com/pvoznenko
 - GitHub: https://github.com/pvoznenko
+- Full list of open positions at Scout24: http://grnh.se/3invx71
