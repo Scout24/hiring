@@ -117,5 +117,3 @@ Pavlo Voznenko and Juri Smarschevski
 
 - Skype: p.voznenko or juri.smarschevski
 - Twitter: https://twitter.com/pvoznenko
-- GitHub: https://github.com/pvoznenko
-- Full list of open positions at Scout24: https://boards.greenhouse.io/scout24
