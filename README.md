@@ -107,13 +107,11 @@ I’d like to provide an example - our architecture is based on micro services w
 So, I like to complete the question above with a thought – nothing is written in stone, it’s a matter of common sense in the particular time period of our development.
 
 
-Or you also can directly contact Pavlo (pavlo.voznenko@scout24.com) or Juri (juri.smarschevski@scout24.com).
+Or you also can directly contact Juri (juri.smarschevski@scout24.com).
 
 If you have questions do not hesitate to ask.
 
 Best Regards,
+Juri Smarschevski
 
-Pavlo Voznenko and Juri Smarschevski
-
-- Skype: p.voznenko or juri.smarschevski
-- Twitter: https://twitter.com/pvoznenko
+- Skype: juri.smarschevski
